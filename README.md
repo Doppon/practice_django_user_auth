@@ -10,7 +10,7 @@
 記事作成	/post/create/
 記事修正	/post/1/update/
 記事削除	/post/1/delete
-サインアップ	/accounts/signup/
+サインアップ /accounts/signup/
 ログイン	/accounts/login/
 ログアウト	/accounts/logout/
 ```
