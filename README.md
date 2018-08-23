@@ -2,6 +2,8 @@
 
 [Django2 でユーザー認証（ログイン認証）を実装するチュートリアル](https://it-engineer-lab.com/archives/506)
 
+[Djangoの認証システムを使用する](https://docs.djangoproject.com/ja/2.0/topics/auth/default/#all-authentication-views)
+
 ## アプリ内でのルーティング
 
 ```
